@@ -307,9 +307,11 @@ footer a {
 {
   width: 70%;
   height: 50%;
+  float: left;
 }
 #shoe
 {
   width: 30%;
   height: 50%;
+  float: left;
 }

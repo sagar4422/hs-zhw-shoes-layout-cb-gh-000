@@ -303,8 +303,8 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
-#holiday
+.shadow
 {
-  width: 10%;
-  height: 10%;
+  width: 30%;
+  height: 30%;
 }
